@@ -5,11 +5,18 @@ output: html_document
 
 ---
 
+```{css, echo=FALSE}
+h1 {
+  text-align: center;
+}
+```
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
- <center>![](https://knickoftime.net/wp-content/uploads/2014/06/bee-graphic-image.png){width=20%}</center> 
+ <center>![](https://knickoftime.net/wp-content/uploads/2014/06/bee-graphic-image.png){width=15%}</center> 
 
 
 <center>   **PhD student | McArt Lab** </center>  
@@ -24,8 +31,26 @@ knitr::opts_chunk$set(echo = FALSE)
   
 
 
+### Education 
 
-### Education
+---
+
+
+* **1902**
+&nbsp;&nbsp;&nbsp;&nbsp;
+**|** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+**Institution 2** 
+
+  Hopefully a degree perhaps
+
+* **Institution 1**  
+  so many sheets of paper awarded here
+
+* **test**          **Institution 1**  
+  so many sheets of paper awarded here
+
+### Work experience
 
 ---
 
@@ -35,13 +60,20 @@ knitr::opts_chunk$set(echo = FALSE)
 * **my second job**  
 I did nothing
 
+* **my third job**  
+I got fired
 
 <br>
 <br>
 
 
 
-### Work experience
+### Magic powers
 
 ---
+
+* **I have several powers**  
+I can fly so far
+
+
 
