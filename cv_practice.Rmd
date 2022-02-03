@@ -19,19 +19,19 @@ knitr::opts_chunk$set(echo = FALSE)
  <center>![](https://knickoftime.net/wp-content/uploads/2014/06/bee-graphic-image.png){width=15%}</center> 
 
 
-<center>   **PhD student | McArt Lab** </center>  
+<center>   **PhD stdent | McArt Lab** </center>  
 <center>   **Department of Entomology, Cornell
 ** </center>  
 
  
-555-555-5555 | email@cornell.edu
--------------|-----------------
-  |  
+555-555-5555 | emil@cornell.edu | wbsite.com
+-------------|---------------|-----------
+  |   |   
   
   
 
 
-### Education 
+### Eduction 
 
 ---
 
