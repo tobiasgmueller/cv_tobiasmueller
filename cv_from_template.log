@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.27)  3 FEB 2022 13:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.27)  3 FEB 2022 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -647,10 +647,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 (c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 127.
-(c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
-File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-)
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 131.
 (c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
@@ -700,15 +696,15 @@ Package rerunfilecheck Info: File `cv_from_template.out' has not changed.
 (rerunfilecheck)             Checksum: DC5CC9EABF6094F32838B561A5724FDE;753.
  ) 
 Here is how much of TeX's memory you used:
- 24361 strings out of 480247
- 452363 string characters out of 5894474
- 718160 words of memory out of 5000000
- 41830 multiletter control sequences out of 15000+600000
- 503701 words of font info for 80 fonts, out of 8000000 for 9000
+ 24338 strings out of 480247
+ 451948 string characters out of 5894474
+ 718116 words of memory out of 5000000
+ 41811 multiletter control sequences out of 15000+600000
+ 503388 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,11n,118p,1205b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} <c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/obiew/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv_from_template.pdf (2 pages, 105980 bytes).
+Output written on cv_from_template.pdf (2 pages, 106035 bytes).
 PDF statistics:
  121 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream

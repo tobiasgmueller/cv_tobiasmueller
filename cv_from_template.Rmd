@@ -3,10 +3,10 @@ output: stevetemplates::cv
 geometry: margin=1in
 
 title: "CV"
-author: William Sealy Gosset
+author: Tobias G Mueller
 
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+jobtitle: "NSF graduate research fellow"
+address: "Department of Entomology. Cornell University"
 fontawesome: yes
 email: guinness@consumer-care.net
 # github: svmiller
