@@ -19,9 +19,9 @@ knitr::opts_chunk$set(echo = FALSE)
  <center>![](https://knickoftime.net/wp-content/uploads/2014/06/bee-graphic-image.png){width=15%}</center> 
 
 
-<center>   **PhD graduate | McArt Lab** </center>  
-<center>   **Department of Entomology, Cornell
-** </center>  
+
+<center>   **PhD student | McArt Lab** </center>  
+
 
  
 555-555-5555 | emil@cornell.edu | wbsite.com
