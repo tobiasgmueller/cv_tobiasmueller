@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
  <center>![](https://knickoftime.net/wp-content/uploads/2014/06/bee-graphic-image.png){width=15%}</center> 
 
 
-<center>   **PhD stdent | McArt Lab** </center>  
+<center>   **PhD graduate | McArt Lab** </center>  
 <center>   **Department of Entomology, Cornell
 ** </center>  
 
